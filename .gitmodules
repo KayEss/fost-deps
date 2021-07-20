@@ -13,9 +13,6 @@
 [submodule "boost/exception"]
 	path = boost/exception
 	url = https://github.com/boostorg/exception.git
-[submodule "fost/base"]
-	path = fost/base
-	url = https://github.com/hotkit/fost-base.git
 [submodule "boost/preprocessor"]
 	path = boost/preprocessor
 	url = https://github.com/boostorg/preprocessor.git
@@ -82,21 +79,12 @@
 [submodule "boost/optional"]
 	path = boost/optional
 	url = https://github.com/boostorg/optional.git
-[submodule "boost/date_time"]
-	path = boost/date_time
-	url = https://github.com/boostorg/date_time.git
-[submodule "boost/chrono"]
-	path = boost/chrono
-	url = https://github.com/boostorg/chrono.git
 [submodule "boost/ratio"]
 	path = boost/ratio
 	url = https://github.com/boostorg/ratio.git
 [submodule "boost/io"]
 	path = boost/io
 	url = https://github.com/boostorg/io.git
-[submodule "boost/filesystem"]
-	path = boost/filesystem
-	url = https://github.com/boostorg/filesystem.git
 [submodule "boost/algorithm"]
 	path = boost/algorithm
 	url = https://github.com/boostorg/algorithm.git
@@ -124,27 +112,12 @@
 [submodule "boost/random"]
 	path = boost/random
 	url = https://github.com/boostorg/random.git
-[submodule "fost/web"]
-	path = fost/web
-	url = https://github.com/hotkit/fost-web.git
-[submodule "fost/internet"]
-	path = fost/internet
-	url = https://github.com/hotkit/fost-internet.git
 [submodule "boost/asio"]
 	path = boost/asio
 	url = https://github.com/boostorg/asio.git
 [submodule "boost/regex"]
 	path = boost/regex
 	url = https://github.com/boostorg/regex.git
-[submodule "crypto"]
-	path = crypto
-	url = https://github.com/hotkit/fost-crypto.git
-[submodule "fost/beanbag"]
-	path = fost/beanbag
-	url = https://github.com/hotkit/fost-beanbag.git
-[submodule "fost/aws"]
-	path = fost/aws
-	url = https://github.com/hotkit/fost-aws.git
 [submodule "boost/throw_exception"]
 	path = boost/throw_exception
 	url = https://github.com/boostorg/throw_exception.git
@@ -154,18 +127,9 @@
 [submodule "boost/lexical_cast"]
 	path = boost/lexical_cast
 	url = https://github.com/boostorg/lexical_cast.git
-[submodule "boost/system"]
-	path = boost/system
-	url = https://github.com/boostorg/system.git
-[submodule "fost/threading"]
-	path = fost/threading
-	url = https://github.com/hotkit/threading.git
 [submodule "boost/type_index"]
 	path = boost/type_index
 	url = https://github.com/boostorg/type_index.git
-[submodule "fost/cord"]
-	path = fost/cord
-	url = https://github.com/hotkit/cord.git
 [submodule "boost/phoenix"]
 	path = boost/phoenix
 	url = https://github.com/boostorg/phoenix.git
@@ -184,18 +148,9 @@
 [submodule "boringssl"]
 	path = boringssl
 	url = https://github.com/google/boringssl.git
-[submodule "fost/json-schema"]
-	path = fost/json-schema
-	url = https://github.com/hotkit/json-schema.git
-[submodule "mdca-platform"]
-	path = mdca-platform
-	url = https://github.com/wfp/MDCA-Platform.git
 [submodule "boost/container_hash"]
 	path = boost/container_hash
 	url = https://github.com/boostorg/container_hash.git
 [submodule "boost/tti"]
 	path = boost/tti
 	url = https://github.com/boostorg/tti.git
-[submodule "fost/makham"]
-	path = fost/makham
-	url = https://github.com/HotKit/makham.git
