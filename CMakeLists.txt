@@ -9,8 +9,6 @@ if(NOT ${CMAKE_SYSTEM_NAME} STREQUAL "Linux")
 endif()
 
 add_subdirectory(boost)
-add_subdirectory(crypto)
-add_subdirectory(fost)
 
 if(NOT ${CMAKE_SYSTEM_NAME} STREQUAL "Linux")
     # This belongs on fost-inet rather than fost-core, but cmake doesn't
