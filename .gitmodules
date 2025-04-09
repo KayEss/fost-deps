@@ -46,9 +46,6 @@
 [submodule "boost/typeof"]
 	path = boost/typeof
 	url = https://github.com/boostorg/typeof.git
-[submodule "boost/variant"]
-	path = boost/variant
-	url = https://github.com/boostorg/variant.git
 [submodule "boost/move"]
 	path = boost/move
 	url = https://github.com/boostorg/move.git
@@ -154,3 +151,42 @@
 [submodule "boost/tti"]
 	path = boost/tti
 	url = https://github.com/boostorg/tti.git
+[submodule "boost/system"]
+	path = boost/system
+	url = git@github.com:boostorg/system.git
+[submodule "boost/date_time"]
+	path = boost/date_time
+	url = git@github.com:boostorg/date_time.git
+[submodule "boost/chrono"]
+	path = boost/chrono
+	url = git@github.com:boostorg/chrono.git
+[submodule "boost/filesystem"]
+	path = boost/filesystem
+	url = git@github.com:boostorg/filesystem.git
+[submodule "boost/describe"]
+	path = boost/describe
+	url = git@github.com:boostorg/describe.git
+[submodule "boost/mp11"]
+	path = boost/mp11
+	url = git@github.com:boostorg/mp11.git
+[submodule "boost/variant2"]
+	path = boost/variant2
+	url = git@github.com:boostorg/variant2.git
+[submodule "boost/scope"]
+	path = boost/scope
+	url = git@github.com:boostorg/scope.git
+[submodule "boost/winapi"]
+	path = boost/winapi
+	url = git@github.com:boostorg/winapi.git
+[submodule "boost/intrusive"]
+	path = boost/intrusive
+	url = git@github.com:boostorg/intrusive.git
+[submodule "boost/unordered"]
+	path = boost/unordered
+	url = git@github.com:boostorg/unordered.git
+[submodule "variant"]
+	path = boost/variant
+	url = git@github.com:boostorg/variant.git
+[submodule "boost/dynamic_bitset"]
+	path = boost/dynamic_bitset
+	url = git@github.com:boostorg/dynamic_bitset.git
