@@ -190,3 +190,18 @@
 [submodule "boost/dynamic_bitset"]
 	path = boost/dynamic_bitset
 	url = git@github.com:boostorg/dynamic_bitset.git
+[submodule "boost/endian"]
+	path = boost/endian
+	url = git@github.com:boostorg/endian.git
+[submodule "boost/pool"]
+	path = boost/pool
+	url = git@github.com:boostorg/pool.git
+[submodule "boost/thread"]
+	path = boost/thread
+	url = git@github.com:boostorg/thread.git
+[submodule "boost/context"]
+	path = boost/context
+	url = git@github.com:boostorg/context.git
+[submodule "boost/coroutine"]
+	path = boost/coroutine
+	url = git@github.com:boostorg/coroutine.git
