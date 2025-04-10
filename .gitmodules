@@ -205,3 +205,6 @@
 [submodule "boost/coroutine"]
 	path = boost/coroutine
 	url = git@github.com:boostorg/coroutine.git
+[submodule "boost/circular_buffer"]
+	path = boost/circular_buffer
+	url = git@github.com:boostorg/circular_buffer.git
