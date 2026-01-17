@@ -153,58 +153,58 @@
 	url = https://github.com/boostorg/tti.git
 [submodule "boost/system"]
 	path = boost/system
-	url = git@github.com:boostorg/system.git
+	url = https://github.com/boostorg/system.git
 [submodule "boost/date_time"]
 	path = boost/date_time
-	url = git@github.com:boostorg/date_time.git
+	url = https://github.com/boostorg/date_time.git
 [submodule "boost/chrono"]
 	path = boost/chrono
-	url = git@github.com:boostorg/chrono.git
+	url = https://github.com/boostorg/chrono.git
 [submodule "boost/filesystem"]
 	path = boost/filesystem
-	url = git@github.com:boostorg/filesystem.git
+	url = https://github.com/boostorg/filesystem.git
 [submodule "boost/describe"]
 	path = boost/describe
-	url = git@github.com:boostorg/describe.git
+	url = https://github.com/boostorg/describe.git
 [submodule "boost/mp11"]
 	path = boost/mp11
-	url = git@github.com:boostorg/mp11.git
+	url = https://github.com/boostorg/mp11.git
 [submodule "boost/variant2"]
 	path = boost/variant2
-	url = git@github.com:boostorg/variant2.git
+	url = https://github.com/boostorg/variant2.git
 [submodule "boost/scope"]
 	path = boost/scope
-	url = git@github.com:boostorg/scope.git
+	url = https://github.com/boostorg/scope.git
 [submodule "boost/winapi"]
 	path = boost/winapi
-	url = git@github.com:boostorg/winapi.git
+	url = https://github.com/boostorg/winapi.git
 [submodule "boost/intrusive"]
 	path = boost/intrusive
-	url = git@github.com:boostorg/intrusive.git
+	url = https://github.com/boostorg/intrusive.git
 [submodule "boost/unordered"]
 	path = boost/unordered
-	url = git@github.com:boostorg/unordered.git
+	url = https://github.com/boostorg/unordered.git
 [submodule "variant"]
 	path = boost/variant
-	url = git@github.com:boostorg/variant.git
+	url = https://github.com/boostorg/variant.git
 [submodule "boost/dynamic_bitset"]
 	path = boost/dynamic_bitset
-	url = git@github.com:boostorg/dynamic_bitset.git
+	url = https://github.com/boostorg/dynamic_bitset.git
 [submodule "boost/endian"]
 	path = boost/endian
-	url = git@github.com:boostorg/endian.git
+	url = https://github.com/boostorg/endian.git
 [submodule "boost/pool"]
 	path = boost/pool
-	url = git@github.com:boostorg/pool.git
+	url = https://github.com/boostorg/pool.git
 [submodule "boost/thread"]
 	path = boost/thread
-	url = git@github.com:boostorg/thread.git
+	url = https://github.com/boostorg/thread.git
 [submodule "boost/context"]
 	path = boost/context
-	url = git@github.com:boostorg/context.git
+	url = https://github.com/boostorg/context.git
 [submodule "boost/coroutine"]
 	path = boost/coroutine
-	url = git@github.com:boostorg/coroutine.git
+	url = https://github.com/boostorg/coroutine.git
 [submodule "boost/circular_buffer"]
 	path = boost/circular_buffer
-	url = git@github.com:boostorg/circular_buffer.git
+	url = https://github.com/boostorg/circular_buffer.git
